@@ -1,0 +1,7 @@
+node_modules
+.next
+out
+.env*.local
+# ردود الضيوف (RSVP) المحفوظة محليًا
+data
+.DS_Store
